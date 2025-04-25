@@ -152,6 +152,7 @@ public class HospitalQueueSystemQuestion {
             default:
                 return "Unknown";
         }
+
     }
 
     private static int getValidIntInput(String prompt) {
